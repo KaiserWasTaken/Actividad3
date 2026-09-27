@@ -14,9 +14,13 @@ Cuando una pagina necesita mostrar ventanas, notificaciones o contenido desplega
 
 <div align="center">
   <a href="https://youtu.be/2e0pw95OaRE" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/2e0pw95OaRE/maxresdefault.jpg" alt="Publicidad de JavaScript" width="720" />
+    <img src="https://img.youtube.com/vi/2e0pw95OaRE/hqdefault.jpg" alt="Publicidad de JavaScript" width="720" />
   </a>
 </div>
+
+<p align="center">
+  <a href="https://youtu.be/2e0pw95OaRE" target="_blank" rel="noopener noreferrer">Ver video en YouTube</a>
+</p>
 
 Los componentes disponibles son:
 
