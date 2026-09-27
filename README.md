@@ -10,6 +10,14 @@ Esta libreria contiene componentes hechos con JavaScript puro, HTML y CSS. Su ob
 
 Cuando una pagina necesita mostrar ventanas, notificaciones o contenido desplegable, normalmente se debe escribir el mismo codigo varias veces. Esta libreria permite crear esos elementos usando configuraciones y metodos sencillos, sin repetir toda la estructura HTML y JavaScript.
 
+### Video de referencia
+
+<div align="center">
+  <a href="https://youtu.be/2e0pw95OaRE" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/2e0pw95OaRE/maxresdefault.jpg" alt="Publicidad de JavaScript" width="720" />
+  </a>
+</div>
+
 Los componentes disponibles son:
 
 - **Modal:** muestra una ventana de informacion sobre la pagina.
